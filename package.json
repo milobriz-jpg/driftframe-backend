@@ -4,6 +4,6 @@
   "description": "Secure leaderboard proxy for Drift Frame",
   "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
