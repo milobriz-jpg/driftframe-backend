@@ -1,4 +1,9 @@
-# Copy this to .env.local for local dev, then add these in Vercel dashboard → Settings → Environment Variables
-
-JSONBIN_BIN_ID=your_bin_id_here
-JSONBIN_MASTER_KEY=your_master_key_here
+{
+  "name": "driftframe-backend",
+  "version": "1.0.0",
+  "description": "Secure leaderboard proxy for Drift Frame",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  }
+}
